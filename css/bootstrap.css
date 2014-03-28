@@ -42,6 +42,27 @@ audio:not([controls]) {
 template {
   display: none;
 }
+
+.mail {
+  width: 32px;
+  height: 32px;
+  background: url('img/mail.png') center top no-repeat;
+}
+
+.mail:hover {
+  background: url('img/mail-hover.png') center top no-repeat;
+}
+
+.linkedin {
+  width: 32px;
+  height: 32px;
+  background: url('img/linkedin.png') center top no-repeat;
+}
+
+.linkedin:hover {
+  background: url('img/linkedin-hover.png') center top no-repeat;
+}
+
 a {
   background: transparent;
 }
