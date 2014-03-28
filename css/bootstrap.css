@@ -43,25 +43,6 @@ template {
   display: none;
 }
 
-.mail {
-  width: 32px;
-  height: 32px;
-  background: url('img/mail.png') center top no-repeat;
-}
-
-.mail:hover {
-  background: url('img/mail-hover.png') center top no-repeat;
-}
-
-.linkedin {
-  width: 32px;
-  height: 32px;
-  background: url('img/linkedin.png') center top no-repeat;
-}
-
-.linkedin:hover {
-  background: url('img/linkedin-hover.png') center top no-repeat;
-}
 
 a {
   background: transparent;
@@ -298,7 +279,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #f9f9f9;
 }
 input,
 button,
